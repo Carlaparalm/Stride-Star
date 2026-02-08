@@ -1,8 +1,0 @@
-{
-  "name": "StrideStar",
-  "description": "A gamified fitness app to discover routes, earn stars, and compete with friends.",
-  "requestFramePermissions": [
-    "geolocation",
-    "camera"
-  ]
-}
